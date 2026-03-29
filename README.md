@@ -5,7 +5,7 @@ This project was developed using Microsoft Power BI.
 
 
 ## Group Members
-This project was completed as part of a group for COMP.3250.
+This project was completed as part of a group for COMP.3250 Data Analytics I 
 - Adhiraj Singh Bains 
 - Salar Gorgees 
 - Laeya Royan Sadhya 
@@ -26,9 +26,7 @@ The goal of this project is to help users understand trends in emissions and com
 
 ## Project Files
 - Power BI file (.pbix)
-- Dataset (external link)
-- Documentation
-  
+- Dataset (external link)  
 
 
 ## Dataset
